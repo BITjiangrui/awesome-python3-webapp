@@ -3,12 +3,12 @@
 test.db
 test.txt
 sina.html
+.idea/*
 
 # C extensions
 *.so
 
 # Packages
-.idea
 *.egg
 *.egg-info
 dist
