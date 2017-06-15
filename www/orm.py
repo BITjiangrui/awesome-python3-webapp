@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-import async as async
 
 __author__ = 'Henry Jiang'
+
+import async as async
 
 import asyncio, logging
 
